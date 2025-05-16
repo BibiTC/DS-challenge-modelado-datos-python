@@ -95,7 +95,7 @@ Si la decisión solo se debe tomar teniendo en cuenta ventas generales, optaría
 
 ## 🎯8. Consideraciones adicionales:
 
-Ubicación: Es importante que el Sr. Juan considere la ubicación de la Tienda 2 y su impacto en el rendimiento. Costos operativos: Se deben evaluar los costos operativos específicos de la Tienda 2, como alquiler, salarios y mantenimiento, para determinar su impacto en la rentabilidad. Estrategias de marketing: Si la Tienda 2 ha tenido estrategias de marketing deficientes, esto podría haber contribuido a su bajo rendimiento. Es importante evaluar si se pueden implementar estrategias para mejorar su rendimiento antes de tomar una decisión final. 
+***Ubicación:*** Es importante que el Sr. Juan considere la ubicación de la Tienda 2 y su impacto en el rendimiento. Costos operativos: Se deben evaluar los costos operativos específicos de la Tienda 2, como alquiler, salarios y mantenimiento, para determinar su impacto en la rentabilidad. Estrategias de marketing: Si la Tienda 2 ha tenido estrategias de marketing deficientes, esto podría haber contribuido a su bajo rendimiento. Es importante evaluar si se pueden implementar estrategias para mejorar su rendimiento antes de tomar una decisión final. 
 ---
 
 
